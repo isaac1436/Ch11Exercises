@@ -7,7 +7,7 @@
         Console.WriteLine(@" |\ ");
         Console.WriteLine(@" | \ ");
         Console.WriteLine(@"a|  \ ");
-        Console.WriteLine(@" |   \ ");
+        Console.WriteLine(@" |   \c ");
         Console.WriteLine(@" |    \ ");
         Console.WriteLine(@" |_____\");
         Console.WriteLine("     b    ");
